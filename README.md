@@ -1,1 +1,1 @@
-The folder “R Script for GHG flux calculation for Picarro data” includes the R script used for GHG flux calculations. It also contains the raw Picarro data in a subfolder named “ghg”, as well as a metadata file (“metadata.csv”) located in the “data” folder. 
+The R script for CO₂ and CH₄ flux calculation, along with the corresponding Picarro raw data in the “ghg” folder and the metadata file (“metadata.csv”) in the “data” folder, provides all the necessary inputs for flux calculations.
